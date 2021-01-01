@@ -1,0 +1,23 @@
+{
+    "name": "RC Car Receiver",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "motorbit": "github:tinkertanker/pxt-motorbit#v2.0.0",
+        "motobit": "github:sparkfun/pxt-moto-bit#v0.0.4"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
